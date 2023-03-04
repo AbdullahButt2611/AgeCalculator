@@ -39,7 +39,7 @@ Following are some of the new features and learning encountered while creating t
 <br>
 Follwing resources have been used in maintaining this project:
 
-- Write points here
+- [Google Fonts](https://fonts.google.com/) to import the <b>Poppins</b> Family 
 
 
 <br><br>
