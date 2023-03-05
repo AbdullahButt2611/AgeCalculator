@@ -49,7 +49,7 @@ Follwing resources have been used in maintaining this project:
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="></a>
+  <a href="https://rebrand.ly/AgeCalculator_MABCORP">https://rebrand.ly/AgeCalculator_MABCORP</a>
 </p>
 
 
@@ -73,8 +73,8 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Graphical User Interface
+![GUI for this Project](demo.png)
 
 
 <br><br>
